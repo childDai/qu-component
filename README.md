@@ -1,2 +1,2 @@
-# qu-component
-封装用过的通用组件
+# qu-component-vue
+封装用过的通用vue组件
